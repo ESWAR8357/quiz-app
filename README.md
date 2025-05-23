@@ -42,7 +42,7 @@ Check out the live demo here:
 ## How to Run Locally
 
 1. Clone this repository:  
-   `git clone https://github.com/your-username/quiz-app.git`
+   `git clone https://eswar8357.github.io/quiz-app/.git`
 2. Open `index.html` in your preferred browser.
 
 ---
